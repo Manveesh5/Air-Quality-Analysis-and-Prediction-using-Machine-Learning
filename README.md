@@ -18,4 +18,5 @@ The project involved building a machine learning model to predict the Air Qualit
 
 **Error Handling:** Implement error handling mechanisms to handle invalid input formats and ensure smooth functioning of the interface.
 
-**Improvement Strategies:** Strategies to improve the model's accuracy, such as feature engineering, hyperparameter tuning, and using more advanced machine learning techniques.
+**Improvement Strategies:** Strategies to improve the model's accuracy, such as feature engineering, hyperparameter tuning, and using more advanced machine learning techniques
+.
